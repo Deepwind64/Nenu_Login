@@ -3,7 +3,7 @@ A Windows campus network automatic login tool for Nenuers.
 
 **Version**: v1.0
 
-The following is in Chinese:
+The following introduction is in Chinese:
 
 东师的校园网有一些固有的问题，包括但不限于：
 - 在更换登录地点时出现登录失效
@@ -16,7 +16,7 @@ The following is in Chinese:
 
 目前有JS逆向来直接发申请以获得用网资格的计划，但限于时间和技术力的限制，更新时间随缘
 
-## 使用教程
+## How to Use / 使用教程
 1. 下载并配置好环境，选择合适的位置放置Nenu_Login文件夹
 2. 点击"安装.bat"，输入账户密码完成初始账号设置，并会自动设置开机自启.注意：如果此时再修改Nenu_Login文件夹的路径则需要重新安装
 3. 如果已经联网，在点击后会出现"网络已连接"的提示。未联网将自动连接，并弹出"连接成功"的提示
