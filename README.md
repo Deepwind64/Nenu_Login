@@ -4,8 +4,9 @@ A Windows campus network automatic login tool for Nenuers.
 **Version**: v1.0
 
 The following introduction is in Chinese:
+# The sence-free authentcation is a lie! / 无感知登录是个谎言
 
-东师的校园网有一些固有的问题，包括但不限于：
+东师的校园网存在一些顽固的登录问题，即使使用了固定的MAC地址也无法保证每次都能正常登录，这些问题包括但不限于：
 - 在更换登录地点时出现登录失效
 - 在一段时间的登录后自动失效
 - 在5G和2.4G网络间更换会导致登录失效
