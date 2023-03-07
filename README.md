@@ -18,7 +18,10 @@ A Windows campus network automatic login tool for Nenuers.
 
 模拟浏览器登录方式的平均的登录时间在 5~10 秒，由于硬件情况和网络质量的不同可能还会有所变大
 
-目前有JS逆向来直接发申请以获得用网资格的计划，但限于时间和技术力的限制，更新时间随缘
+目前有JS逆向来直接发申请以获得用网资格的计划，但限于时间和技术力的限制，更新时间随缘<br>
+<br>
+详细信息请见语雀文档：<br>
+https://www.yuque.com/deepwindshenlan/rrhg31/mxutu6xdk1s9gusn?singleDoc# 《Nenu_Login》
 
 ## How to Use / 使用教程
 1. 下载并配置好环境，选择合适的位置放置 Nenu_Login 文件夹
