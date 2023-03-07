@@ -20,7 +20,7 @@ un = ''
 pw = ''
 notification = ToastNotifier()
 
-# TODO 加入低网络质量处理方案
+# TODO 加入低质量网络处理方案
 def net_tester(url):
     try:
         html = urllib3.PoolManager()
@@ -38,7 +38,7 @@ def browser_login(un, pw):
     def check_up():
         info = '0'
         try:
-            # FIXME 等待窗口显示，等待改进
+            # FIXME 等待窗口显示，需优化
             time.sleep(1)
             info = browser.find_element(By.XPATH, '//*[@id="layui-layer1"]/div[2]').text
         except:
